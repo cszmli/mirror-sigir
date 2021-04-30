@@ -1,4 +1,6 @@
-# mirror-nmt
+# Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems
+This is the codebase for paper: "[Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems](https://arxiv.org)".
+
 
 ## Requirements: 
 * **Pytorch-1.1**
@@ -27,4 +29,13 @@ python -u translate.py -model $model -src $test_src -tgt $test_tgt -ctx $test_ct
 ```
 $mirror_output_2 is for the file to save generated dialogues.
 
+If you use the code in this repository, feel free to cite our publication [Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems](https://arxiv.org):
+``` 
+@article{li2021mirror,
+  title={Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems},
+  author={Li, Ziming and Kiseleva, Julia and de Rijke, Maarten},
+  journal={SIGIR 2021},
+  year={2021}
+}
 
+```
