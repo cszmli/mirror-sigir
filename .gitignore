@@ -1,0 +1,9 @@
+*.pyc
+*.txt
+!/.gitignore
+slurm_logs/
+data/
+.vscode/
+docs/
+MTurk Evaluation/
+tools/

@@ -1,0 +1,8 @@
+ -src /your/folder/daily_dialog/test/pair_mmi_dialogues_x.txt -tgt /your/folder/daily_dialog/test/pair_mmi_dialogues_y.txt -ctx /your/folder/daily_dialog/test/pair_mmi_dialogues_ctx.txt -output /your/folder/folder_mirror_nmt/new_mirror_output_nodc10_r177_b10_real.txt -attn_debug -beam_size 10 -n_best 1 -batch_size 5 -verbose -gpu 0 -use_dc -1 -model 
+ -src /your/folder/daily_dialog/test/pair_mmi_dialogues_x.txt -tgt /your/folder/daily_dialog/test/pair_mmi_dialogues_y.txt -ctx /your/folder/daily_dialog/test/pair_mmi_dialogues_ctx.txt -output /your/folder/folder_mirror_nmt/new_mirror_output_nodc10_r177_b10_real.txt -attn_debug -beam_size 10 -n_best 1 -batch_size 5 -verbose -gpu 0 -use_dc -1 -model 
+
+
+
+
+
+ 
