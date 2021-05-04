@@ -1,5 +1,5 @@
 # Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems
-This is the codebase for paper: "[Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems](https://arxiv.org)".
+This is the codebase for paper: "[Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems](https://arxiv.org/abs/2105.00079)".
 
 
 ## Requirements: 
@@ -29,7 +29,7 @@ python -u translate.py -model $model -src $test_src -tgt $test_tgt -ctx $test_ct
 ```
 $mirror_output_2 is for the file to save generated dialogues.
 
-If you use the code in this repository, feel free to cite our publication [Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems](https://arxiv.org):
+If you use the code in this repository, feel free to cite our publication [Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems](https://arxiv.org/abs/2105.00079):
 ``` 
 @article{li2021mirror,
   title={Improving Response Quality with Backward Reasoningin Open-domain Dialogue Systems},
